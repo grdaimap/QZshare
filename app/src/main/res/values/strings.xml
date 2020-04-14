@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QZshare</string>
+    <string name="url">网址</string>
+    <string name="pics">图片</string>
+    <string name="title">标题</string>
+    <string name="retry">重试</string>
+    <string name="balabala">使用步骤：1.复制网址，2.打开这个app，3.跳转到浏览器进行QQ空间分享。</string>
+</resources>
